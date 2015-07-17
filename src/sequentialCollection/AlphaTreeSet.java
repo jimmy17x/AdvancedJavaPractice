@@ -9,6 +9,7 @@ public class AlphaTreeSet {
 		names.add("marshal");
 		names.add("jolly");
 		names.add("jimmy");
+		names.add("aroma");
 
 		System.out.println("Number of names: " + names.size());
 

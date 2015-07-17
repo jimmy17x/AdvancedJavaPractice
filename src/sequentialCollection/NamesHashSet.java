@@ -8,6 +8,10 @@ public class NamesHashSet {
 		HashSet<String> names = new HashSet<String>();
 		names.add("jimmy");
 		names.add("jolly");
+		names.add("marshal");
+		names.add("ozzy");
+		names.add("jimmy");
+		names.add("jolly");
 		
 		System.out.println("The number of names is " + names.size());
 		for(String s : names)
